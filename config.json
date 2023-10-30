@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json﻿",
-            "name": "🏡应用多多"
-        },
-        {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
+        },
+        {
+            "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json﻿",
+            "name": "🏡应用多多"
         },
         {
             "url": "http://yydsys.top/duo/ali",
